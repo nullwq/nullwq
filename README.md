@@ -31,6 +31,6 @@
 
 ## Statistics 📊
 
-![Readme stats](https://github-readme-stats.vercel.app/api?username=nullwqh&show_icons=true&theme=radical)
-![Top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nullwqh&layout=compact&theme=radical)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=nullwqh&theme=radical)
+![Readme stats](https://github-readme-stats.vercel.app/api?username=nullwq&show_icons=true&theme=radical)
+![Top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nullwq&layout=compact&theme=radical)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=nullwq&theme=radical)
